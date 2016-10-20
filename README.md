@@ -1,6 +1,13 @@
+#尝试用 Yii+Vue.js+JQueryAjax 写了个待办事项记录功能
+
+具体介绍：https://gfwboom.com/archives/code/php/2016/10/20/vuejs10-yii20.html
+
+DEMO：http://demo.gfwboom.com/tasks/web?r=tasks/index
+
+![image](https://gfwboom.b0.upaiyun.com/usr/uploads/2016/10/564264369.jpg)
+
 Yii 2 Basic Project Template
 ============================
-
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
